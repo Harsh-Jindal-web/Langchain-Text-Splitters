@@ -10,7 +10,7 @@ Effective text splitting is crucial in tasks like Retrieval-Augmented Generation
 In natural language processing, especially when working with large language models, it's essential to preprocess and segment large texts into smaller chunks.
 This ensures that the models can handle the input efficiently and maintain contextual relevance. This repository provides various strategies to achieve effective text splitting, each catering to different types of content and requirements.
 
-For a detailed explanation of these loaders, refer to the [**Notes Document Loaders in LangChain.pdf**](https://github.com/Harsh-Jindal-web/Langchain-Text-Splitters/raw/main/Notes%20Document%20Loaders%20in%20LangChain.pdf) available in this repository.
+For a detailed explanation of these loaders, refer to the [**Notes Document Loaders in LangChain.pdf**](https://github.com/Harsh-Jindal-web/Langchain-Text-Splitters/blob/main/Notes%20Text%20Splitters%20in%20LangChain.pdf) available in this repository.
 
 Additionally, you can watch the following video for a comprehensive walkthrough:  
 - [LangChain Text Splitters Explained](https://www.youtube.com/watch?v=SEWS9P4ODmc)
